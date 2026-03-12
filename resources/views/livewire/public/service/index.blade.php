@@ -109,46 +109,11 @@
 
             <div class="col-lg-6">
                 <div class="image">
-                    <img src="assets/images/resource/image-62.jpg" alt="">
+                    <img src="assets/images/resource/image-5.jpg" alt="">
                 </div>
             </div>
         </div>
 
-
-        <div class="row no-gutters">
-            <div class="col-lg-6 order-lg-2">
-                <div class="kingho_block__16">
-                    <div class="offer-title">Transporte</div>
-                    <h4>Serviço de Transporte</h4>
-
-                    <div class="text">
-                        Facilitamos a sua mobilidade<br>
-                        com serviços de transporte<br>
-                        disponíveis mediante solicitação.
-                    </div>
-
-                    <div class="icon">
-                        <i class="flaticon-clock"></i>
-                        <span>Disponível mediante pedido</span>
-                    </div>
-
-                    <div class="icon-two">
-                        <i class="flaticon-calendar-1"></i>
-                        <span>Todos os dias</span>
-                    </div>
-
-                    <a href="{{ route('web.public.contact') }}" class="theme-btn btn-alt_s1">
-                        <span>Contacte-nos</span>
-                    </a>
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="image">
-                    <img src="assets/images/resource/image-63.jpg" alt="">
-                </div>
-            </div>
-        </div>
 
     </div>
 </section>
