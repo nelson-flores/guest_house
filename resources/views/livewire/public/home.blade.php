@@ -10,7 +10,7 @@
                   <div class="content-box">
                      <div class="inner">
                         <div class="logo"><img src="assets/images/icons/image-2.png" alt=""></div>
-                        <h1 class="banner-title">MTN GUEST H.<br>
+                        <h1 class="banner-title">GUEST HOUSE <br>MTN.<br>
 Conforto<br>
  e Hospitalidade 
                         </h1>
@@ -98,9 +98,9 @@ Conforto<br>
             <div class="col-lg-6">
                <div class="kingho_block__02 text-center">
                   <div class="image mb-10"><img src="assets/images/icons/image-2.png" alt=""></div>
-                  <h2 class="section_main_title">Bem Vindo/a ao <br><span class="theme-color">MTN GUEST HOUSE</span>
+                  <h2 class="section_main_title">Bem Vindo/a ao <br><span class="theme-color">Guest House MTN</span>
                   </h2>
-                  <div class="text-two">A MTN Guest House oferece conforto, tranquilidade e um ambiente acolhedor para tornar a sua estadia em Nampula inesquecível. Desfrute de quartos confortáveis, excelente atendimento e serviços pensados para si.</div>
+                  <div class="text-two">A Guest House MTN oferece conforto, tranquilidade e um ambiente acolhedor para tornar a sua estadia em Nampula inesquecível. Desfrute de quartos confortáveis, excelente atendimento e serviços pensados para si.</div>
                   <div class="bottom-content justify-content-center">
                      <div class="ratings">4.6</div>
                      <div class="text-three">Users <br>Ratings</div><a href="{{ route('web.public.home') }}"
@@ -120,7 +120,7 @@ Conforto<br>
       </div>
 
       <h2 class="section_main_title text-center text-light">
-         Promoções da MTN Guest House
+         Promoções da Guest House MTN
       </h2>
 
       <div class="row align-items-center">
@@ -368,9 +368,6 @@ Conforto<br>
             <div class="theme__container">
                <div class="kingho_block__07">
                   <div class="image"><img src="assets/images/resource/video.jpg" alt=""></div>
-                  <div class="kingho_video_btn"><a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s"
-                        class="overlay-link play-now ripple" data-fancybox="gallery" data-caption=""><i
-                           class="fas fa-play"></i></a></div>
                </div>
             </div>
          </section>
@@ -394,9 +391,6 @@ Conforto<br>
 
                <div class="kingho_inner_content_box">
                   <div class="author-info">
-                     <div class="thumb">
-                        <img src="assets/images/resource/image-8.png" alt="">
-                     </div>
 
                      <div class="rating-info">
                         <div class="rating">
@@ -414,7 +408,7 @@ Conforto<br>
                   <div class="content">
                      <div class="text">
                         Excelente atendimento e quartos muito confortáveis.
-                        Recomendo a MTN Guest House para quem visita Nampula.
+                        Recomendo a Guest House MTN para quem visita Nampula.
                      </div>
                   </div>
                </div>
@@ -426,10 +420,6 @@ Conforto<br>
 
                <div class="kingho_inner_content_box">
                   <div class="author-info">
-                     <div class="thumb">
-                        <img src="assets/images/resource/image-9.png" alt="">
-                     </div>
-
                      <div class="rating-info">
                         <div class="rating">
                            <span class="fas fa-star"></span>
@@ -458,9 +448,6 @@ Conforto<br>
 
                <div class="kingho_inner_content_box">
                   <div class="author-info">
-                     <div class="thumb">
-                        <img src="assets/images/resource/image-10.png" alt="">
-                     </div>
 
                      <div class="rating-info">
                         <div class="rating">
@@ -478,7 +465,7 @@ Conforto<br>
                   <div class="content">
                      <div class="text">
                         Equipa muito simpática e sempre disponível para ajudar.
-                        Voltarei com certeza à MTN Guest House.
+                        Voltarei com certeza à Guest House MTN.
                      </div>
                   </div>
                </div>

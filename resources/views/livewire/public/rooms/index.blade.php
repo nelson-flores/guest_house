@@ -39,7 +39,7 @@
                     <div class="text-two">
                         Quartos confortáveis e modernos,
                         ideais para uma estadia tranquila
-                        na MTN Guest House.
+                        na Guest House MTN.
                     </div>
 
                     <div class="kingho_inner_content_box">

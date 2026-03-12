@@ -3,7 +3,7 @@
 
 <head>
    <meta charset="utf-8">
-   <title>MTN GUEST HOUSE</title>
+   <title>Guest House MTN</title>
    <link href="assets/css/kingho.css" rel="stylesheet">
    <link rel="preconnect" href="https://fonts.googleapis.com">
    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

@@ -8,11 +8,11 @@
 
          <div class="about-widget widget">
             <div class="logo">
-               <img src="{{ url('assets/images/logo-light.png') }}" alt="MTN Guest House">
+               <img src="{{ url('assets/images/logo-light.png') }}" alt="Guest House MTN">
             </div>
 
             <div class="text text-light">
-               A MTN Guest House oferece conforto, tranquilidade e um ambiente acolhedor
+               A Guest House MTN oferece conforto, tranquilidade e um ambiente acolhedor
                para tornar a sua estadia em Nampula inesquecível. Desfrute de quartos
                confortáveis, excelente atendimento e serviços pensados para si.
             </div>
@@ -22,7 +22,7 @@
             <h4>Entre em Contacto</h4>
 
             <div class="text text-light">
-               Bem-vindo à MTN Guest House,
+               Bem-vindo à Guest House MTN,
                onde o conforto e a hospitalidade fazem parte da sua experiência.
             </div>
 

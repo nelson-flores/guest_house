@@ -10,8 +10,8 @@
                 <div class="col-lg-6">
                     <div class="kingho_block__02 alt_s2">
                         <div class="image mb-10"><img src="assets/images/icons/image-2.png" alt=""></div>
-                        <h2 class="section_main_title">Bem Vindo/a ao <br><span class="theme-color">MTN GUEST HOUSE</span> </h2>
-                        <div class="text-two">A MTN Guest House oferece conforto, tranquilidade e um ambiente acolhedor
+                        <h2 class="section_main_title">Bem Vindo/a ao <br><span class="theme-color">Guest House MTN</span> </h2>
+                        <div class="text-two">A Guest House MTN oferece conforto, tranquilidade e um ambiente acolhedor
                para tornar a sua estadia em Nampula inesquecível. Desfrute de quartos
                confortáveis, excelente atendimento e serviços pensados para si.</div>
                         <div class="bottom-content">
@@ -38,7 +38,7 @@
                     <div class="text">
                         Internet de alta velocidade disponível<br>
                         gratuitamente em todas as áreas<br>
-                        da MTN Guest House.
+                        da Guest House MTN.
                     </div>
                 </div>
             </div>

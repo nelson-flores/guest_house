@@ -3,7 +3,7 @@
      <div class="row">
     <div class="col-lg-3 col-md-6">
         <div class="footer-logo">
-            <img src="assets/images/footer-logo.png" alt="MTN Guest House" width="100px">
+            <img src="assets/images/footer-logo.png" alt="Guest House MTN" width="100px">
         </div>
     </div>
 
@@ -36,7 +36,7 @@
         <div class="widget text-widget">
             <h4>Reconhecimentos</h4>
             <div class="text">
-                A MTN Guest House é reconhecida<br>
+                A Guest House MTN é reconhecida<br>
                 pelo conforto, hospitalidade<br>
                 e qualidade no atendimento.
             </div>
@@ -65,7 +65,7 @@
         <div class="widget contact-widget">
             <h4>Contacte-nos</h4>
             <div class="text">
-                Bem-vindo à MTN Guest House,<br>
+                Bem-vindo à Guest House MTN,<br>
                 onde o conforto e a hospitalidade<br>
                 são a nossa prioridade.
             </div>
