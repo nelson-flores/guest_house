@@ -193,7 +193,7 @@ Conforto<br>
                </div>
 
                <div class="kingho_inner_content_box">
-                  <div class="pricing">3.000 MZN / Noite</div>
+                  <div class="pricing">2000 MZN / Noite</div>
                   <div class="text">Quarto Deluxe</div>
                </div>
             </div>
@@ -206,7 +206,7 @@ Conforto<br>
                </div>
 
                <div class="kingho_inner_content_box">
-                  <div class="pricing">3.000 MZN / Noite</div>
+                  <div class="pricing">1500 MZN / Noite</div>
                   <div class="text">Quarto Duplo</div>
                </div>
             </div>
@@ -224,7 +224,7 @@ Conforto<br>
                </div>
 
                <div class="kingho_inner_content_box">
-                  <div class="pricing">1.500 MZN / Noite</div>
+                  <div class="pricing">1.000 MZN / Noite</div>
                   <div class="text">Quarto Individual</div>
                </div>
             </div>
@@ -237,7 +237,7 @@ Conforto<br>
                </div>
 
                <div class="kingho_inner_content_box">
-                  <div class="pricing">4.000 MZN / Noite</div>
+                  <div class="pricing">2.000 MZN / Noite</div>
                   <div class="text">Quarto Familiar</div>
                </div>
             </div>
